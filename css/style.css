@@ -10,7 +10,7 @@ body{
     height: 75vh;
     /* width: auto; */
     opacity: 0.8;
-    background-image: url(./images/header-img.jpg);
+    background-image: url(../images/header-img.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
