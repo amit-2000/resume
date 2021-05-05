@@ -3,7 +3,7 @@
 body{
     padding: 0px;
     margin: 0px;
-    font-family: sans-serif;
+    /* font-family: sans-serif; */
     /* font-size: 30px; */
 }
 #body-header{
@@ -45,6 +45,7 @@ nav{
 
 
 .nav-center h1{
+     font-family: sans-serif;
     margin-right: 100px;
     position:relative ;
     left: 50px;
@@ -87,11 +88,18 @@ li , a , ul{
 ul.nav-bar li a:hover{
     color: rgb(30, 58, 219);
     transition: color 0.5s,background-color 0.5s , border 0.5s;
-
  } 
 
 /* heading my-name*/
+
+.about-para{
+    text-indent: 40px;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+
 .text-center{
+    
     text-align: center;
 }
 
